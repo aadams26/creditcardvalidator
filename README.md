@@ -16,7 +16,19 @@ The following are the supported credit card types:
 
 **Additional types**
 * JCB
-* Maestro
+* Maestro, Maestro UK
+* China Union, China T-Union
+* Dankort
+* Diners Club, Diners Club International
+* InstaPayment
+* InterPayment
+* LankaPay
+* MIR
+* NPS Pridnestrovie
+* RuPay
+* Troy
+* UATP
+* Verve
 
 ## Type Validators
 This library provides issuer-based validators for custom implementations 
