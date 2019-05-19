@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/aadams26/creditcardvalidator.svg?branch=master)](https://travis-ci.org/aadams26/creditcardvalidator.svg?branch=master)
+
 # Credit Card Validator
 
 A java library that utilizes the Luhn algorithm to test for validity of 
