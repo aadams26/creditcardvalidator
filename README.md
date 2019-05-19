@@ -60,7 +60,7 @@ boolean isValid = visaValidator.validate();
 
 ### [TypeChecker](#-TypeChecker)
 
-└── checkType(String creditCardNumber)
+└── **checkType(String creditCardNumber)**
 ***
 
 ### # CreditCardParser
