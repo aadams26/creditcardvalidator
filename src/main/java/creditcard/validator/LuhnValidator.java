@@ -48,7 +48,7 @@ class LuhnValidator {
         int[] tempArray = new int[listSize];
         int sum = 0;
 
-        // Double the value of every second digit starting from the last
+        // Reverse the order
         Collections.reverse(numberList);
 
         // Double the value of every second digit
