@@ -124,7 +124,7 @@ boolean isValid = DateChecker.compareDates("11", CURRENT_MONTH);
 A static method that consumes the String representation of the credit
 card number and returns a StringBuilder.
 ```java
-StringBuilder expirationDate = DateChecker.convertDate("4547250466466268");
+StringBuilder expirationDate = DateChecker.convertDate("11/20");
 ```
 
 ### # DateParser
