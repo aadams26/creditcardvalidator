@@ -100,6 +100,11 @@ and the IIN range. Then returns the IIN value.
 ```java
 List<Integer> creditCardNumberList = new ArrayList<>();
 creditCardNumberList = CreditCardParser.parseNumber("4547250466466268");
+int IINRange = 31;
+int firstTwo = parseIIN(creditCardNumberList, 2);
+if (firstTwo == IINRange) {
+    hasAllowedIINRange = true;
+}
 ```
 
 ### # DateChecker
